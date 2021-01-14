@@ -22,11 +22,10 @@ public class CalculatorTest {
     {
         Assert.assertEquals(200, calc.multiply(2, 100));
     }
-
-    /*
+    
     @Test
     public void testDivide()
     {
         Assert.assertEquals(50, calc.divide(100, 2));
-    }*/
+    }
 }
